@@ -1,0 +1,20 @@
+.page-with-mailing {
+	position: relative;
+}
+
+.mailing-footer {
+	position: absolute; 
+	top: 950px; 
+	left: 75px;
+}
+
+.sig-line {
+	position: absolute; 
+	width: 500px;
+	top: 915px; 
+}
+
+.tr-sig-line {
+	position: absolute; 
+	top:947px; 
+}
